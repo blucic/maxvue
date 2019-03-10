@@ -38,6 +38,7 @@
   </v-app>
   <p>Ovo je tekst</p>
   <div><p>LoginForm refresh</p></div>
+  <p>da li imamo konlikt</p>
 </div>
 </template>
 
