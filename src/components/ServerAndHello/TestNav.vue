@@ -36,6 +36,7 @@
       </v-container>
     </v-content>
   </v-app>
+  <p>Ovo je tekst</p>
 </div>
 </template>
 
