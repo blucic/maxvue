@@ -37,6 +37,7 @@
     </v-content>
   </v-app>
   <p>Ovo je tekst</p>
+  <div><p>LoginForm</p></div>
 </div>
 </template>
 
